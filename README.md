@@ -1,4 +1,4 @@
-# NIPA_Online_AI-DA_mixandmatch_Academy [2020008 ~ 20201218]
+# NIPA_Online_AI-DA_mixandmatch_Academy [2020908 ~ 20201218]
 
 nipa.elice.io
 
