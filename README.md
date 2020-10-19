@@ -9,8 +9,8 @@ chapter1. [활용필수] 인공지능으로 주가 예측 체험 [20201018] <br>
  
  
  
-chapter2. [활용선택] 파이썬으로 시작하는 데이터 분석 [20201018] [20201019] <br>
+chapter2. [활용선택] 파이썬으로 시작하는 데이터 분석 [20201018] [20201019] [20201020] <br>
  - Numpy<br>
  - Pandas<br>
  - Matplotlib<br>
- - 월드컵 예측 
+ - 월드컵 예측 : https://www.kaggle.com/abecklas/fifa-world-cup?select=WorldCupMatches.csv
