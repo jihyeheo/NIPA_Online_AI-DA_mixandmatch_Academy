@@ -14,3 +14,5 @@ chapter2. [활용선택] 파이썬으로 시작하는 데이터 분석 [20201018
  - Pandas<br>
  - Matplotlib<br>
  - 월드컵 예측 : https://www.kaggle.com/abecklas/fifa-world-cup?select=WorldCupMatches.csv
+
+제 3 장. [활용 선택] ㄷ  데이터 분석과머신러닝 [20201025]
